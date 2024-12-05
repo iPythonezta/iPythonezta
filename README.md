@@ -1,13 +1,12 @@
 ### Hi there 👋 I am Huzaifa, a full stack web developer
- 
- [DevPost](https://devpost.com/BloggingKIng)  |   [Github](https://github.com/BloggingKIng)  | [Twitter](https://twitter.com/ipythonista)
+  [Github](https://github.com/iPythonezta)  
 
-![](https://komarev.com/ghpvc/?username=BloggingKIng&color=green)
+![](https://komarev.com/ghpvc/?username=iPythonezta&color=green)
 
 - 🌱 I’m currently learning more about React Native 
 - 👯 I'm happy to work with anyone on anything!
 - 💬 Ask me anything
-- 📫 How to reach me: huzaifablogger.contact@gmail.com
+- 📫 How to reach me: hazhar.bese24@seecs.edu.pk
 
 
 <h3>Languages I Use</h3>
@@ -16,11 +15,11 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![ReactJs](https://img.shields.io/badge/-ReactJs-000000?style=flat&logo=react)
 
 <h3> Frameworks & Services Used </h3>
 
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
+![ReactJs](https://img.shields.io/badge/-ReactJs-000000?style=flat&logo=react)
 ![Github](https://img.shields.io/badge/-Github-black?style=flat&logo=github)
 ![Microsoft azure](https://img.shields.io/badge/-Azure-000000?style=flat&logo=MicrosoftAzure&logoColor=blue)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
@@ -39,5 +38,5 @@
 <h1> My Github Stats </h1>
 
 <a href="">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BloggingKIng&langs_count=10&theme=dark&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a><span>&nbsp;&nbsp;&nbsp;</span>
-<a href=""><img align ="center" src ="https://github-readme-stats.vercel.app/api?username=BloggingKIng&count_private=true&show_icons=true&theme=dark&include_all_commits=true&custom_title=Huzaifa%27s%20Github%20Stats&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iPythonezta&langs_count=10&theme=dark&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a><span>&nbsp;&nbsp;&nbsp;</span>
+<a href=""><img align ="center" src ="https://github-readme-stats.vercel.app/api?username=iPythonezta&count_private=true&show_icons=true&theme=dark&include_all_commits=true&custom_title=Huzaifa%27s%20Github%20Stats&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
