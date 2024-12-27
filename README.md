@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning more about React Native 
 - 👯 I'm happy to work with anyone on anything!
 - 💬 Ask me anything
-- 📫 How to reach me: hazhar.bese24@seecs.edu.pk
+- 📫 How to reach me: hazhar.bese24seecs@seecs.edu.pk
 
 
 <h3>Languages I Use</h3>
