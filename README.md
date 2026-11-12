@@ -1,42 +1,117 @@
-### Hi there 👋 I am Huzaifa, a full stack web developer
-  [Github](https://github.com/iPythonezta)  
+<div align="center">
 
-![](https://komarev.com/ghpvc/?username=iPythonezta&color=green)
+# Hi, I'm Huzaifa Azhar 👋
 
-- 🌱 I’m currently learning more about React Native 
-- 👯 I'm happy to work with anyone on anything!
-- 💬 Ask me anything
-- 📫 How to reach me: hazhar.bese24seecs@seecs.edu.pk
+### Software Engineer — Python, AI & Automation
 
+I build backends, AI agents and automation that ship: from a search engine written from scratch to LLM pipelines that fill 1,000-field insurance forms.
 
-<h3>Languages I Use</h3>
+[![Portfolio](https://img.shields.io/badge/Portfolio-visit-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-bloggingkings-projects.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzaifa-azhar/)
+[![Fiverr](https://img.shields.io/badge/Fiverr-hire%20me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/huzaifa_blogger)
+[![Email](https://img.shields.io/badge/Email-say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hazhar.contact@gmail.com)
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Profile views](https://komarev.com/ghpvc/?username=iPythonezta&color=blueviolet&style=flat-square&label=profile+views)
 
-<h3> Frameworks & Services Used </h3>
+</div>
 
-![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
-![ReactJs](https://img.shields.io/badge/-ReactJs-000000?style=flat&logo=react)
-![Github](https://img.shields.io/badge/-Github-black?style=flat&logo=github)
-![Microsoft azure](https://img.shields.io/badge/-Azure-000000?style=flat&logo=MicrosoftAzure&logoColor=blue)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=flat&logo=tailwindcss&logoColor=Putple)
+---
 
-<h3>What I am going to learn & the things I am learning! </h3>
+## About
 
-![NodeJS](https://img.shields.io/badge/-NodeJS-000000?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAABX1BMVEUAAAAA/wAAgABVqlVAgEAzmTMrqiskkiQ5jjkzmTMuoi47nTs3kjczmTMwnzA5nDk2lDYzmTMxnjE1lTUzmTMwlzAzmTMynDI0ljQxmDE0lzQymzI0lzQzmTMymzI0lzQ1mjUzmTMymjI0mDQymDIymjIzmTMymDI0mDQ0mDQymjIymDI0mDQymTI0mTQzmDMzmTMymTI0mTQzmTMzmjMzmDMzmTMymTIzmDMzmjM0mTQzmTM0mTQzmDMzmTMzmjMzmDMymTI0mTQzmTMzmDMymTI0mTQymTIzmTM0mTQzmTMzmTMzmjMzmTMzmDMymTI0mTQzmDMymTI0mTQzmDMzmTMzmjMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTP///+6jFFoAAAAc3RSTlMAAQIDBAUGBwkKCw0ODxASExQVHR4gIyQnKiwzNjc4O0RGR0pNUVVXWV5gYWNmZ2hpa2xub3JzdXd5gIKFhoeIi46PkZWYmZ2go6Wqq6+ztre4u8bHyMnOz9DR09XW2Nzd3+Dj5ebn6Onq6+zv9fb4+vv9D744ugAAAAFiS0dEdN9tqG0AAAEnSURBVCjPZZLpN0JRFMV375V5fGUmZAwNj2euyJypSKSUQilFefv/X8sHldx3Pt2zf+esfde+F6iXRctm1ywwlCPFeJxP04I8dMGSJkvOd96ONMkdO5XqYff/EwCTM98097sLAEqMKYfgFlMABHRNuItF0/0AQmUAGN1S0LsZCp+pXQDKoQbw0G7L8S1ZYM4mgl0uACYXfSI4pqoApn1VBPYv8vXaP27wgHX7MvFJHonAMwcAY8+VFgEkSgoA6f67XQAufpwHTxI8NXjMRgp68c5trgG/vmEBvJz4i2Rd9wHojzI9P3BDa12fSTPaBwDSUo5kpCYPh5lflmpN22JgpRUA0BOsVvY6m6OWD15WZdld5NWg8OqTD0w8Mjll/CayN5NRzY32BzfcTM9g2CSbAAAAAElFTkSuQmCC)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL&Color=339933)
-![PyTorch](https://img.shields.io/badge/-Pytorch-000000?style=flat&logo=pytorch)
+- 🎓 BE Software Engineering student at **NUST** (expected 2028)
+- 💼 Freelance developer since 2022: **90+ orders**, **4.9/5** average rating, Level 2 seller on Fiverr
+- 🏆 Team member at **Microsoft Imagine Cup 2026** (ZeroDevAI)
+- 🌍 Based in Faisalabad, Pakistan, working with clients worldwide
+- 📫 Open to freelance work and collaborations: **hazhar.contact@gmail.com**
 
-<hr>
+## Featured projects
 
-<h1> My Github Stats </h1>
+Demo videos and full case studies for each project are on my **[portfolio](https://portfolio-bloggingkings-projects.vercel.app)**.
 
-<a href="">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iPythonezta&langs_count=10&theme=dark&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a><span>&nbsp;&nbsp;&nbsp;</span>
-<a href=""><img align ="center" src ="https://github-readme-stats.vercel.app/api?username=iPythonezta&count_private=true&show_icons=true&theme=dark&include_all_commits=true&custom_title=Huzaifa%27s%20Github%20Stats&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **ZeroDevAI** | Voice-to-app platform. I built the tool-calling code-generation agent for the Imagine Cup 2026 entry. | Azure OpenAI, multi-agent, Python |
+| **[BigSearch](https://github.com/iPythonezta/BigSearch)** | Full-text search engine from first principles: lexicon, forward and inverted indexes, PageRank. ([server & UI](https://github.com/iPythonezta/BigSearchServer)) | Python, Flask, React |
+| **[DraftGenius](https://github.com/Asim-Shoaib/FantasyPredictorServer)** | AI fantasy-cricket team optimiser for the PSL. | Python, ML, React |
+| **[PakWarera](https://pakwarera.azurewebsites.net)** | Market forecasting and country intelligence for a live strategy game. | Flask, PostgreSQL, Prophet, HMMs, Azure |
+| **Smart Bus Islamabad** ([backend](https://github.com/iPythonezta/Smart-Bus-System), [frontend](https://github.com/iPythonezta/SmartBusFrontend)) | Industry project for InLights (NSTP): live ETAs, announcements and ads on pole-mounted bus-stop screens. | Django REST, MySQL, Mapbox, React |
+| **FB Lead Radar** | AI lead finder that watches Facebook groups for buyers. | Python, Selenium, GPT |
+| **ACORD Form Filler** | LLM pipeline that fills 1,171-field insurance PDFs from messy source documents. | Python, OpenAI, PDF tooling |
+| **X Automation Suite** | Multi-profile scheduling, campaigns and AI replies with live logs. | Python, Selenium, PyInstaller |
+| **[Inventory Management Tool](https://github.com/iPythonezta/InventoryManagementTool)** | Point-of-sale and stock system, refactored with SOLID and GoF patterns. | Django, React, MySQL |
+
+More on GitHub: [BigCrawl](https://github.com/iPythonezta/BigCrawl) · [Jskibiddi](https://github.com/iPythonezta/Jskibiddi) · [AI-Journo](https://github.com/iPythonezta/AI-Journo) · [Project Management Tool](https://github.com/iPythonezta/Project-Management-Tool) · [X-ray Classifier](https://github.com/iPythonezta/xray-classifier)
+
+## Tech stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Backend**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+
+**AI & ML**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+**Automation & data**
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Cloud & tools**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## Certifications
+
+- **IT Automation with Python** — Google
+- **Meta Back-End Developer** — Meta ([capstone](https://github.com/iPythonezta/Meta-Backend-Final-Project))
+- **Advanced React** — Meta
+- **AI Engineering** — IBM
+- **Junior Cyber Security Analyst** — Hack The Box
+
+## Currently
+
+- 🔨 Shipping client automation and AI-agent projects
+- 📚 Deepening algorithms, software architecture and testing at NUST
+- 🤝 Taking on new freelance work: [Fiverr](https://www.fiverr.com/huzaifa_blogger) or email me directly
+
+<div align="center">
+
+*If you need a Python backend, an automation or an AI workflow built properly, [get in touch](mailto:hazhar.contact@gmail.com).*
+
+</div>
